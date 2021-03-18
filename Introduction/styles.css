@@ -1,0 +1,14 @@
+.container{
+ width: 50%;
+ height: 1000px;
+ position: absolute;
+ margin-left: 25px;
+ top: 25px;
+}
+.intro{
+    font-family: 'Raleway', sans-serif;
+    font-size: 16px;
+    text-align: left;
+    position: absolute;
+    color: slategrey;
+}
